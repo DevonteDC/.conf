@@ -36,7 +36,7 @@ function RequirePackage() {
 }
 
 function GetRequirements() {
-  RequirePackage "git" && RequirePackage "zsh" && test -d .conf || git clone https://github.com/keyvanfatehi/.conf
+  RequirePackage "git" && RequirePackage "zsh" && test -d .conf || git clone https://github.com/DevonteDC/.conf
 }
 
 cd $HOME
