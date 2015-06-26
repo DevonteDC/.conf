@@ -7,4 +7,4 @@ bootstrap my dev environment and related tools. Supported on:
 
 ## Install
 
-`\curl -fsSL http://j.mp/keyvanfatehi_conf | bash -e`
+`\curl -fsSL https://raw.githubusercontent.com/DevonteDC/.conf/master/remote_install | bash -e`
